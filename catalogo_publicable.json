@@ -1,6 +1,5 @@
 {
   "biblioteca": "ECEME",
- "actualizado": "PRUEBA DE SINCRONIZACION",
   "libros": [
     {
       "Título": "Las tierras de Ñacunday, Marina kue y otras calamidades",
@@ -6986,5 +6985,6 @@
       "Ubicación": "",
       "Disponibilidad": "🟢 Disponible"
     }
-  ]
+  ],
+  "actualizado": "11/10/2026 23:59"
 }
